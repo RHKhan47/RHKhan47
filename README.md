@@ -64,7 +64,7 @@ Research contributor at the **28th International Conference on Computer and Info
 ## 📫 Connect With Me
 
 📧 Email: **[rhkhan2312@gmail.com](mailto:rhkhan2312@gmail.com)**
-🐙 GitHub: **https://github.com/RHKhan47**
+- 🐙 GitHub: **https://github.com/RHKhan47**
 
 ---
 
