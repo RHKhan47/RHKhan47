@@ -24,25 +24,25 @@ I am a motivated Computer Science and Engineering student with a strong foundati
 ```
 C | C++ | Java | C# | Python | PHP | JavaScript
 ```
-
+<!--
 ### Web Development
 
 ```
 HTML | CSS | Bootstrap | ASP.NET
 ```
-
+-->
 ### Databases
 
 ```
 MySQL | Microsoft SQL Server | Firebase
 ```
-
+<!--
 ### Tools & Technologies
 
 ```
 Android Studio | Git | Graphics Programming | Game Development
 ```
-
+-->
 ---
 
 ## 🏆 Achievements
